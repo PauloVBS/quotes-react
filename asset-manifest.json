@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quotes-react/static/css/main.8864718d.css",
+    "main.js": "/quotes-react/static/js/main.978e94c3.js",
+    "static/js/787.43cbfe13.chunk.js": "/quotes-react/static/js/787.43cbfe13.chunk.js",
+    "index.html": "/quotes-react/index.html",
+    "static/media/iconmonstr-twitter-1.svg": "/quotes-react/static/media/iconmonstr-twitter-1.5ae9f4cf80c1f851b13c3fb4494b8d39.svg",
+    "main.8864718d.css.map": "/quotes-react/static/css/main.8864718d.css.map",
+    "main.978e94c3.js.map": "/quotes-react/static/js/main.978e94c3.js.map",
+    "787.43cbfe13.chunk.js.map": "/quotes-react/static/js/787.43cbfe13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8864718d.css",
+    "static/js/main.978e94c3.js"
+  ]
+}
